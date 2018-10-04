@@ -3,7 +3,7 @@ import camelCase from 'camel-case';
 let instance = null;
 
 export class Cacher {
-    
+
     cache = {};
 
     constructor(){
